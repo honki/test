@@ -52,10 +52,16 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;stroke-width:0.697191;stroke-linecap:round;stroke-linejoin:round"
        id="path148"
-       cx="105.07738"
-       cy="111.88096"
-       r="73.327377" />
+       cx="79.752975"
+       cy="137.20537"
+       r="48.002972" />
+    <circle
+       style="fill:#000000;stroke-width:0.697191;stroke-linecap:round;stroke-linejoin:round"
+       id="circle168"
+       cx="156.10417"
+       cy="54.806557"
+       r="48.002972" />
   </g>
 </svg>
